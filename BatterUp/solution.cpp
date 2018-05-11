@@ -1,3 +1,5 @@
+// Problem statement: https://open.kattis.com/problems/batterup
+
 #include <iostream>
 
 int main(int argc, char *argv[]) {
